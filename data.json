@@ -16,186 +16,367 @@
 	"More": [
 
 	],
-	"Skin": [{
-			"id": 1,
-			"nama_skin": "Animatronic Pack 1",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/1aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/1a.png"
-		},
-		{
-			"id": 2,
-			"nama_skin": "Animatronic Pack 2",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/2aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/2a.png"
-		},
-		{
-			"id": 3,
-			"nama_skin": "Animatronic Pack 3",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/3aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/3a.png"
-		},
-		{
-			"id": 4,
-			"nama_skin": "Animatronic Pack 4",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/4aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/4a.png"
-		},
-		{
-			"id": 5,
-			"nama_skin": "Animatronic Pack 5",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/5aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/5a.png"
-		},
-		{
-			"id": 6,
-			"nama_skin": "Animatronic Pack 6",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/6aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/6a.png"
-		},
-		{
-			"id": 7,
-			"nama_skin": "Animatronic Pack 7",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/7aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/7a.png"
-		},
-		{
-			"id": 8,
-			"nama_skin": "Animatronic Pack 8",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/8aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/8a.png"
-		},
-		{
-			"id": 9,
-			"nama_skin": "Animatronic Pack 9",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/9aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/9a.png"
-		},
-		{
-			"id": 10,
-			"nama_skin": "Animatronic Pack 10",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/10aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/10a.png"
-		},
-		{
-			"id": 11,
-			"nama_skin": "Animatronic Pack 11",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/11aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/11a.png"
-		},
-		{
-			"id": 12,
-			"nama_skin": "Animatronic Pack 12",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/12aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/12a.png"
-		},
-		{
-			"id": 13,
-			"nama_skin": "Animatronic Pack 13",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/13aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/13a.png"
-		},
-		{
-			"id": 14,
-			"nama_skin": "Animatronic Pack 14",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/14aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/14a.png"
-		},
-		{
-			"id": 15,
-			"nama_skin": "Animatronic Pack 15",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/15aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/15a.png"
-		},
-		{
-			"id": 16,
-			"nama_skin": "Animatronic Pack 16",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/16aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/16a.png"
-		},
-		{
-			"id": 17,
-			"nama_skin": "Animatronic Pack 17",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/17aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/17a.png"
-		},
-		{
-			"id": 18,
-			"nama_skin": "Animatronic Pack 18",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/18aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/18a.png"
-		},
-		{
-			"id": 19,
-			"nama_skin": "Animatronic Pack 19",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/19aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/19a.png"
-		},
-		{
-			"id": 20,
-			"nama_skin": "Animatronic Pack 20",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/20aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/20a.png"
-		},
-		{
-			"id": 21,
-			"nama_skin": "Animatronic Pack 21",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/21aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/21a.png"
-		},
-		{
-			"id": 22,
-			"nama_skin": "Animatronic Pack 22",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/22aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/22a.png"
-		},
-		{
-			"id": 23,
-			"nama_skin": "Animatronic Pack 23",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/23aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/23a.png"
-		},
-		{
-			"id": 24,
-			"nama_skin": "Animatronic Pack 24",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/24aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/24a.png"
-		},
-		{
-			"id": 25,
-			"nama_skin": "Animatronic Pack 25",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/25aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/25a.png"
-		},
-		{
-			"id": 26,
-			"nama_skin": "Animatronic Pack 26",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/26aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/26a.png"
-		},
-		{
-			"id": 27,
-			"nama_skin": "Animatronic Pack 27",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/27aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/27a.png"
-		},
-		{
-			"id": 28,
-			"nama_skin": "Animatronic Pack 28",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/28aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/28a.png"
-		},
-		{
-			"id": 29,
-			"nama_skin": "Animatronic Pack 29",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/29aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/29a.png"
-		},
-		{
-			"id": 30,
-			"nama_skin": "Animatronic Pack 30",
-			"skin_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/30aa.png",
-			"view_skin": "https://raw.githubusercontent.com/bro-cell/animatron/main/30a.png"
-		}
+	"Skin": [[
+    {
+      "id":1,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin1.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/1.png"
+    },
+    {
+      "id":2,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin2.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/2.png"
+    },
+    {
+      "id":3,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin3.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/3.png"
+    },
+    {
+      "id":4,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin4.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/4.png"
+    },
+    {
+      "id":5,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin5.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/5.png"
+    },
+    {
+      "id":6,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin6.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/6.png"
+    },
+    {
+      "id":7,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin7.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/7.png"
+    },
+    {
+      "id":8,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin8.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/8.png"
+    },
+    {
+      "id":9,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin9.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/9.png"
+    },
+    {
+      "id":10,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin10.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/10.png"
+    },
+    {
+      "id":11,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin11.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/11.png"
+    },
+    {
+      "id":12,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin21.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/12.png"
+    },
+    {
+      "id":13,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin13.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/13.png"
+    },
+    {
+      "id":14,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin14.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/14.png"
+    },
+    {
+      "id":15,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin15.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/15.png"
+    },
+    {
+      "id":16,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin16.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/16.png"
+    },
+    {
+      "id":17,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin17.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/17.png"
+    },
+    {
+      "id":18,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin18.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/18.png"
+    },
+    {
+      "id":19,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin19.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/19.png"
+    },
+    {
+      "id":20,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin20.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/20.png"
+    },
+    {
+      "id":21,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin21.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/21.png"
+    },
+    {
+      "id":22,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin22.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/22.PNG"
+    },
+    {
+      "id":23,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin23.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/23.PNG"
+    },
+    {
+      "id":24,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin24.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/24.PNG"
+    },
+    {
+      "id":25,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin25.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/25.PNG"
+    },
+    {
+      "id":26,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin26.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/26.PNG"
+    },
+    {
+      "id":27,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin27.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/27.PNG"
+    },
+    {
+      "id":28,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin28.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/28.PNG"
+    },
+    {
+      "id":29,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin29.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/29.PNG"
+    },
+    {
+      "id":30,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin30.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/30.PNG"
+    },
+    {
+      "id":31,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin31.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/31.PNG"
+    },
+    {
+      "id":32,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin32.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/32.PNG"
+    },
+    {
+      "id":33,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin33.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/33.PNG"
+    },
+    {
+      "id":34,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin34.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/34.PNG"
+    },
+    {
+      "id":35,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin35.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/35.PNG"
+    },
+    {
+      "id":36,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin36.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/36.PNG"
+    },
+    {
+      "id":37,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin37.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/37.PNG"
+    },
+    {
+      "id":38,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin38.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/38.PNG"
+    },
+    {
+      "id":39,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin39.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/39.PNG"
+    },
+    {
+      "id":40,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin40.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/40.PNG"
+    },
+    {
+      "id":41,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin41.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/41.PNG"
+    },
+    {
+      "id":42,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin42.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/42.PNG"
+    },
+    {
+      "id":43,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin43.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/43.PNG"
+    },
+    {
+      "id":44,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin44.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/44.PNG"
+    },
+    {
+      "id":45,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin45.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/45.PNG"
+    },
+    {
+      "id":46,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin46.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/46.PNG"
+    },
+    {
+      "id":47,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin47.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/47.PNG"
+    },
+    {
+      "id":48,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin48.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/48.PNG"
+    },
+    {
+      "id":49,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin49.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/49.PNG"
+    },
+    {
+      "id":50,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin50.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/50.PNG"
+    },
+    {
+      "id":51,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin51.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/51.PNG"
+    },
+    {
+      "id":52,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin52.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/52.PNG"
+    },
+    {
+      "id":53,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin53.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/53.PNG"
+    },
+    {
+      "id":54,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin54.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/54.PNG"
+    },
+    {
+      "id":55,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin55.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/55.PNG"
+    },
+    {
+      "id":56,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin56.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/56.PNG"
+    },
+    {
+      "id":57,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin57.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/57.PNG"
+    },
+    {
+      "id":58,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin58.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/58.PNG"
+    },
+    {
+      "id":59,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin59.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/59.PNG"
+    },
+    {
+      "id":60,
+      "nama_skin":"Friday Night Funkin SKINS",
+      "skin_url":"https://rastariski01.github.io/skinfridaymcpe/skin/skin60.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/jajal/main/60.PNG"
+    }
 	],
 	"Addons": [{
       "id":1,
